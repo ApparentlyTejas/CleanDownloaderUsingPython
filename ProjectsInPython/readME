@@ -50,3 +50,31 @@ This script scans your `~/Downloads` folder and:
 ```bash
 git clone https://github.com/ApparentlyTejas/ProjectsInPython.git
 cd ProjectsInPython
+
+🧠 Customization
+You can change the behavior by editing the script:
+
+File types → Modify the file_type_folders dictionary in main()
+
+Number of duplicates → Currently deletes all but the newest
+
+Safety → You could add a dry-run mode or confirmation prompts
+
+
+🙋‍♂️ Author
+
+Tejas Malhotra
+Automation enthusiast.
+Follow me or contribute at github.com/ApparentlyTejas
+
+
+---
+
+Let me know if you’d like me to:
+- Add a demo GIF or screenshot section
+- Turn this into a CLI tool
+- Package it for Windows/macOS/Linux
+
+You're all set to publish it! ✅
+
+
